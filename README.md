@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ganesh2054
+- 👋 Hi, I’m Ganesh Lamichhane
 - 👀 I’m interested in python programming
 - 🌱 I’m currently learning Django Rest Framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on React
 - 📫 How to reach me ...
 
 <!---
